@@ -1,0 +1,24 @@
+C:\Users\alumnoFI\Downloads\Obligatorio\Obligatorio\bin\Debug\net7.0\Obligatorio.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio\Obligatorio\bin\Debug\net7.0\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio\Obligatorio\bin\Debug\net7.0\Obligatorio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio\Obligatorio\obj\Debug\net7.0\refint\Obligatorio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio\Obligatorio\obj\Debug\net7.0\ref\Obligatorio.dll
+C:\Users\Facu\OneDrive\Escritorio\FACULTAD\2DO SEMESTRE\P2\Obligatorio\Obligatorio\bin\Debug\net7.0\Obligatorio.deps.json
+C:\Users\Facu\OneDrive\Escritorio\FACULTAD\2DO SEMESTRE\P2\Obligatorio\Obligatorio\bin\Debug\net7.0\Obligatorio.dll
+C:\Users\Facu\OneDrive\Escritorio\FACULTAD\2DO SEMESTRE\P2\Obligatorio\Obligatorio\bin\Debug\net7.0\Obligatorio.pdb
+C:\Users\Facu\OneDrive\Escritorio\FACULTAD\2DO SEMESTRE\P2\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\Facu\OneDrive\Escritorio\FACULTAD\2DO SEMESTRE\P2\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facu\OneDrive\Escritorio\FACULTAD\2DO SEMESTRE\P2\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\Facu\OneDrive\Escritorio\FACULTAD\2DO SEMESTRE\P2\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.AssemblyInfo.cs
+C:\Users\Facu\OneDrive\Escritorio\FACULTAD\2DO SEMESTRE\P2\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Facu\OneDrive\Escritorio\FACULTAD\2DO SEMESTRE\P2\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.dll
+C:\Users\Facu\OneDrive\Escritorio\FACULTAD\2DO SEMESTRE\P2\Obligatorio\Obligatorio\obj\Debug\net7.0\refint\Obligatorio.dll
+C:\Users\Facu\OneDrive\Escritorio\FACULTAD\2DO SEMESTRE\P2\Obligatorio\Obligatorio\obj\Debug\net7.0\Obligatorio.pdb
+C:\Users\Facu\OneDrive\Escritorio\FACULTAD\2DO SEMESTRE\P2\Obligatorio\Obligatorio\obj\Debug\net7.0\ref\Obligatorio.dll
